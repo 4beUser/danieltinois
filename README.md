@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Daniel/Dorakofo
 
 - 🔭 A procura de uma vaga Front-End
-- 🌱 Formado em Análise e Desenvolvimento de Sistemas.
 - 💬 Certificado de 100 Horas de desenvolvimento Web Developer 2022 + projetos.
-- 🖋 Curso de Ingês com certificado - avançado.
+- 🖋 Curso de Ingês com certificado - intermediário.
 - 📫 Contate-me no e-mail: danieltinois@gmail.com
 - ⚡ Sempre me entregando ao maximo em tudo que faço!
 
