@@ -12,8 +12,6 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltinois&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Dora-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Dora-PYCHARM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
   <img align="right" alt="Dora-PIC" height="180" width="200" style="border-radius:50px;" src="https://c.tenor.com/gDqmZx9YCxAAAAAC/robot-bender.gif">
 </div>
   
