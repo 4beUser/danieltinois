@@ -2,7 +2,7 @@
 
 - 🔭 A procura de uma vaga Front-End
 - 💬 Certificados de 210 Horas de desenvolvimento Web Developer 2022 + projetos.
-- 🖋 Curso de Ingês com certificado - intermediário.
+- 🖋 Curso de Ingês com certificado - iniciante.
 - 📫 Contate-me no e-mail: danieltinois@gmail.com
 - ⚡ Sempre me entregando ao maximo em tudo que faço!
 
