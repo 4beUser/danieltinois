@@ -2,7 +2,7 @@
 
 - 🔭 A procura de uma vaga Front-End
 - 💬 Certificados de 110 Horas de desenvolvimento Web Developer 2022 + projetos.
-- 📫 Contate-me no e-mail: danieltinois@gmail.com
+- 📫 Contate-me no e-mail: danieltinois.developer@gmail.com
 - ⚡ Sempre me entregando ao maximo em tudo que faço!
 
 <div align="center">
