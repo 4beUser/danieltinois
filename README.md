@@ -15,7 +15,7 @@
  <img align="center" alt="Daniel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://cdn-icons.flaticon.com/png/512/2409/premium/2409387.png?token=exp=1657967956~hmac=a0fa7753f784d7300ff39161673c7ff9">
+  <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://img.freepik.com/vetores-gratis/homem-bonito-trabalhando-no-computador-com-ilustracao-de-icone-do-vetor-dos-desenhos-animados-do-cafe-conceito-de-icone-de-tecnologia-de-pessoas-isolado-vetor-premium-estilo-flat-cartoon_138676-3868.jpg">
 </div>
   
   ##
