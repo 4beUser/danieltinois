@@ -9,13 +9,16 @@
   <a href="https://github.com/danieltinois">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danieltinois&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltinois&layout=compact&langs_count=7&theme=aura"/>
-</div>
+<</div>
   <div style="display: inline_block"><br>
- <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Daniel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://img.freepik.com/vetores-gratis/homem-bonito-trabalhando-no-computador-com-ilustracao-de-icone-do-vetor-dos-desenhos-animados-do-cafe-conceito-de-icone-de-tecnologia-de-pessoas-isolado-vetor-premium-estilo-flat-cartoon_138676-3868.jpg">
+  <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Daniel-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Daniel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Daniel-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Daniel-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="right" alt="Daniel-PIC" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif">
 </div>
   
   ##
