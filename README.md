@@ -18,7 +18,7 @@
   <img align="center" alt="Daniel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Daniel-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Daniel-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="right" alt="Daniel-PIC" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif">
+  <img align="right" alt="Daniel-PIC" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </div>
   
   ##
