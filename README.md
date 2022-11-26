@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Daniel Tinois
 
 - 🔭 A procura de uma vaga Front-End
-- 💬 Certificados de 110 Horas de desenvolvimento Web Developer 2022 + projetos.
+- 💬 Certificados de desenvolvimento Web Developer 2022 + projetos.
 - 📫 Contate-me no e-mail: danieltinois.developer@gmail.com
 - ⚡ Sempre me entregando ao maximo em tudo que faço!
 
