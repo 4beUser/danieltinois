@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30"> , eu sou o Daniel Tinois!</h1>
+<h1 align="center">Olá 🤗 , eu sou o Daniel Tinois!</h1>
 <h3 align="center">Dev. Front-end Brasil!</h3>
 
 - 📫 Contate-me no e-mail: danieltinois.developer@gmail.com
